@@ -6,7 +6,7 @@ Este vídeo explora a evolução, aplicações e impacto das IAs Generativas, ap
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão do roteiro;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para geração de imagens;
-- IA Generativa **[D-ID](https://www.d-id.com)** para síntese de voz e criação de avatar virtual;
+- IA Generativa **[ElevenLabs](https://elevenlabs.io)** para síntese de voz e criação de avatar virtual;
 - **[Canva](https://www.canva.com)** para edição do vídeo.
 
 ## 🧐 Processo de Criação
@@ -16,7 +16,7 @@ Este vídeo explora a evolução, aplicações e impacto das IAs Generativas, ap
 
 2. **Criação de Conteúdo Visual**
    - Uso do **[Leonardo AI](https://leonardo.ai)** para gerar imagens relevantes ao tema do vídeo.
-   - Criação de um avatar virtual e síntese de voz com **[D-ID](https://www.d-id.com)** para narração.
+   - Criação de um avatar virtual e síntese de voz com **[ElevenLabs](https://elevenlabs.io)** para narração.
 
 3. **Edição e Montagem**
    - Edição das imagens e narração no **[Canva](https://www.canva.com)** para criar um vídeo fluido e profissional.
