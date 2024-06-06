@@ -7,6 +7,7 @@ Este vídeo explora a evolução, aplicações e impacto das IAs Generativas, ap
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão do roteiro;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para geração de imagens;
 - IA Generativa **[ElevenLabs](https://elevenlabs.io)** para síntese de voz e criação de avatar virtual;
+- IA Generativa **[Runway](https://runwayml.com)** para geração de vídeos;
 - **[Canva](https://www.canva.com)** para edição do vídeo.
 
 ## 🧐 Processo de Criação
@@ -20,6 +21,7 @@ Este vídeo explora a evolução, aplicações e impacto das IAs Generativas, ap
 
 3. **Edição e Montagem**
    - Edição das imagens e narração no **[Canva](https://www.canva.com)** para criar um vídeo fluido e profissional.
+   - Em alguns trechos, foi utilizado o **[Runway](https://runwayml.com)** para a geração de vídeos de fundo.
 
 ## 🚀 Resultados
 O vídeo resultante oferece uma visão clara e cativante sobre o desenvolvimento e impacto das IAs Generativas, educando e inspirando o público sobre o futuro dessa tecnologia.
