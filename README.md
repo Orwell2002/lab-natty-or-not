@@ -17,11 +17,11 @@ Este vídeo explora a evolução, aplicações e impacto das IAs Generativas, ap
 
 2. **Criação de Conteúdo Visual**
    - Uso do **[Leonardo AI](https://leonardo.ai)** para gerar imagens relevantes ao tema do vídeo.
+   - Em alguns trechos, foi utilizado o **[Runway](https://runwayml.com)** para a geração de vídeos de fundo.
    - Criação de um avatar virtual e síntese de voz com **[ElevenLabs](https://elevenlabs.io)** para narração.
 
 3. **Edição e Montagem**
    - Edição das imagens e narração no **[Canva](https://www.canva.com)** para criar um vídeo fluido e profissional.
-   - Em alguns trechos, foi utilizado o **[Runway](https://runwayml.com)** para a geração de vídeos de fundo.
 
 ## 🚀 Resultados
 O vídeo resultante oferece uma visão clara e cativante sobre o desenvolvimento e impacto das IAs Generativas, educando e inspirando o público sobre o futuro dessa tecnologia.
@@ -29,4 +29,4 @@ O vídeo resultante oferece uma visão clara e cativante sobre o desenvolvimento
 ## 💭 Reflexão
 Criar este vídeo foi uma experiência enriquecedora, destacando o poder das IAs Generativas na criação de conteúdo multimídia e abrindo novas possibilidades para a educação e a comunicação.
 
-LINK PARA O VÍDEO AQUI
+**[LINK PARA O VÍDEO AQUI](https://youtu.be/uHW0t1wTQ8c)** 
